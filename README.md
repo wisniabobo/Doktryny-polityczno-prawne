@@ -1,5 +1,9 @@
 # Doktryny polityczno-prawne – aplikacja do nauki
 
+## 👉 [Otwórz aplikację: wisniabobo.github.io/Doktryny-polityczno-prawne](https://wisniabobo.github.io/Doktryny-polityczno-prawne/)
+
+*Nie musisz niczego instalować – kliknij link powyżej i ucz się w przeglądarce (także na telefonie).*
+
 Statyczna aplikacja (GitHub Pages) do nauki przedmiotu **Doktryny polityczno-prawne** (9.PR.D5.3.DPP).
 
 Treści opracowane **wyłącznie** na podstawie literatury podstawowej:
